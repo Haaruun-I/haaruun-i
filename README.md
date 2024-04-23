@@ -1,4 +1,4 @@
-help
+# hi im Haaruun
 
-or look at some stuff i made, idc
-most of the stuff here is just stuff i threw together
+i do work in Web Dev and Python
+uuuh i need to write more here later
