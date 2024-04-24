@@ -1,4 +1,5 @@
-# hi im Haaruun
+## hi im Haaruun
 
 i do work in Web Dev and Python
-uuuh i need to write more here later
+
+i really need to write more here,,, later
