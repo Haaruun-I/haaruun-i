@@ -1,4 +1,4 @@
-## hi im Haaruun
+## Hi I'm Haaruun
 
 i do work in Web Dev and Python
 
