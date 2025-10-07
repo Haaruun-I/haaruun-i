@@ -1,5 +1,5 @@
 ## Hi I'm Haaruun
 
-i do work in Web Dev and Python
+I'm a Freshman at MNSU Mankato studying Computer Engineering!
 
-i really need to write more here,,, later
+I mostly do web dev and write small utility scripts, but I'm learning more about lower level programming!
