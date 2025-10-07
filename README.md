@@ -1,4 +1,4 @@
-## Hi, I'm Haaruun!
+## Hi, I’m Haaruun!
 
 I'm a Freshman at MNSU Mankato studying Computer Engineering,
 
